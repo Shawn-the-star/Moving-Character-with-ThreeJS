@@ -44,7 +44,7 @@ class Game{
 		const game = this;
 		this.anims = ["girl-walk", "run", "gather-objects", "look-around"];
 		
-		this.assetsPath = '../assets/';
+		this.assetsPath = './assets/';
 		
 		const options = {
 			assets:[
